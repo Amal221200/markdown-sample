@@ -71,3 +71,15 @@
         return a+b
     }
 ```
+<!-- Similarly python, etc -->
+
+<!-- Tables -->
+| Name   | Email    |
+| -      | -        |
+|John Doe| johndoe@gmail.com|
+|John Doe| johndoe@gmail.com|
+
+<!-- Task Lists -->
+* [x] Task 1
+* [x] Task 2
+* [ ] Task 3
